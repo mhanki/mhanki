@@ -1,7 +1,7 @@
 ![Header Image](https://pbs.twimg.com/profile_banners/1200006365378437120/1620210836/1500x500)
 
     
-# Welcome
+# Welcome <img height="35" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/680089d166c35be9e3d2080d525140a9c6f6a7ca/flower.svg" />
 
 Hi! My name is Meike. I am an independent software and web developer from Germany. It's really nice to have you here!
 

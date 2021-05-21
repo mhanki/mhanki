@@ -14,6 +14,6 @@ Programming is a craft. And as with any craft, the quality of the output is a di
 
 ## Tech Stack
 
-<img height="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-grey.png" /> Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs. Working within the JavaScript ecosystem makes it possible to keep a consistent codebase while providing the possibility to develop services for various platforms. From websites to mobile apps and desktop applications, projects often share logical and visual components. Being able to adjust and configure these components in one place to then share them across [apps] makes development much less error prone, consistend, and more efficient.  
+Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs. Working within the JavaScript ecosystem makes it possible to keep a consistent codebase while providing the possibility to develop services for various platforms. From websites to mobile apps and desktop applications, projects often share logical and visual components. Being able to adjust and configure these components in one place to then share them across [apps] makes development much less error prone, consistend, and more efficient.  
 
 ![Stack](https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/stack.png)

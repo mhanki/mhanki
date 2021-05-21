@@ -4,7 +4,7 @@
 [![mail](https://img.shields.io/badge/-E--Mail-313131?style=flat&labelColor=313131&logo=ProtonMail&logoColor=white&color=313131)](mailto:meike.hankewicz@protonmail.com)
 
 
-# Welcome <img height="35" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/680089d166c35be9e3d2080d525140a9c6f6a7ca/flower.svg" />
+# Welcome <img height="35" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/daisy-muted.png" />
 
 Hi! My name is Meike. I am an independent software and web developer from Germany. It's really nice to have you here!
 
@@ -14,6 +14,6 @@ Programming is a craft. And as with any craft, the quality of the output is a di
 
 ## Tech Stack
 
-Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs.
+<img height="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-borderless.png" /> Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs.
 
 ![Stack](https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/stack.png)

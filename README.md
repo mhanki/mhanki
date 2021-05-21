@@ -14,6 +14,6 @@ Programming is a craft. And as with any craft, the quality of the output is a di
 
 ## Tech Stack
 
-<img height="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-borderless.png" /> Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs.
+<img height="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-grey.png" /> Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs.
 
 ![Stack](https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/stack.png)

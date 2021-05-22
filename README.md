@@ -28,9 +28,9 @@ Here are some of open source projects I've recently been working on.
 <table>
   <tr>
     <td width="800">
-      <h3>Calm Focus</h3>
+      <h3>Focus Flow</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
+      <a href="https://github.com/mhanki/Focus-Flow"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td width="200" align="center">
       <a href="https://github.com/mhanki/">
@@ -54,7 +54,7 @@ Here are some of open source projects I've recently been working on.
     <td width="800">
       <h3>Selenite</h3>
       <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
-      <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
+      <a href="https://github.com/mhanki/Selenite"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/mhanki/">

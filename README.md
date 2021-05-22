@@ -15,5 +15,45 @@ Programming is a craft. And as with any craft, the quality of the output is a di
 ## Tech Stack
 
 Specialising in a main technology stack is part of what allows me to achieve and maintain this level of quality when solving customers' problems and needs. Working within the JavaScript ecosystem makes it possible to keep a consistent codebase while providing the possibility to develop services for various platforms. From websites to mobile apps and desktop applications, projects often share logical and visual components. Being able to adjust and configure these components in one place to then share them across [apps] makes development much less error prone, consistend, and more efficient.  
+<br>
 
 ![Stack](https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/stack.png)
+
+<br>
+
+## Projects
+
+Here are some of the projects I've recently been working on.
+
+<table>
+  <tr>
+    <td width="800">
+      <h3>Pomodoro</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
+    </td>
+    <td width="160" align="center">
+      <img src="https://via.placeholder.com/150" alt="Banner">
+    </td>
+  </tr>
+    <tr>
+    <td width="800">
+      <h3>Meditation App</h3>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
+    </td>
+    <td width="160" align="center">
+      <img src="https://via.placeholder.com/150" alt="Banner">
+    </td>
+  </tr>
+    <tr>
+    <td width="800">
+      <h3>Selenite</h3>
+      <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
+      <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
+    </td>
+    <td width="160" align="center">
+      <img src="https://via.placeholder.com/150" alt="Banner">
+    </td>
+  </tr>
+</table>

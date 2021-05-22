@@ -23,7 +23,7 @@ Specialising in a main technology stack is part of what allows me to achieve and
 
 # Projects
 
-Here are some of the projects I've recently been working on.
+Here are some of open source projects I've recently been working on.
 
 <table>
   <tr>
@@ -63,3 +63,13 @@ Here are some of the projects I've recently been working on.
     </td>
   </tr>
 </table>
+
+<br>
+
+## Community
+
+<img width="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-grey.png"/> One of the aspects I love most about being a developer is the ability to help make people's lives just a little bit easier. That is true not only when working with clients, but also when engaging with the coding community. From automation tools, UI- and software components to articles, I try to create and share whatever I find helpful in my own work, in the hope it can be useful for others too. If you are a developer yourself, feel free to have a look at some of these platforms to see if there is something of value to you:
+
+[![npm](https://img.shields.io/badge/npm_packages-313131?style=for-the-badge&labelColor=313131&logo=npm&logoColor=white&color=313131)](https://www.npmjs.com/~schlenges)
+[![bit](https://img.shields.io/badge/ui_components-313131?style=for-the-badge&labelColor=313131&logo=Bit&logoColor=white&color=313131)](https://bit.dev/schlenges)
+[![dev.to](https://img.shields.io/badge/articles-313131?style=for-the-badge&labelColor=313131&logo=dev-dot-to&logoColor=white&color=313131)](https://dev.to/schlenges)

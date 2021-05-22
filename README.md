@@ -4,7 +4,7 @@
 [![mail](https://img.shields.io/badge/-E--Mail-313131?style=flat&labelColor=313131&logo=ProtonMail&logoColor=white&color=313131)](mailto:meike.hankewicz@protonmail.com)
 
 
-# Welcome <img height="35" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/daisy-muted2.png" />
+# Welcome <img height="35" src="https://raw.githubusercontent.com/mhanki/mhanki/main/assets/daisy.png" />
 
 Hi! My name is Meike. I am an independent software and web developer from Germany. It's really nice to have you here!
 
@@ -68,7 +68,7 @@ Here are some of open source projects I've recently been working on.
 
 ## Community
 
-<img width="80" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/lavenderjs-grey.png"/> One of the aspects I love most about being a developer is the ability to help make people's lives just a little bit easier. That is true not only when working with clients, but also when engaging with the coding community. From automation tools, UI- and software components to articles, I try to create and share whatever I find helpful in my own work, in the hope it can be useful for others too. If you are a developer yourself, feel free to have a look at some of these platforms to see if there is something of value to you:
+<img width="80" src="https://raw.githubusercontent.com/mhanki/mhanki/main/assets/lavender-js-grey.png"/> One of the aspects I love most about being a developer is the ability to help make people's lives just a little bit easier. That is true not only when working with clients, but also when engaging with the coding community. From automation tools, UI- and software components to articles, I try to create and share whatever I find helpful in my own work, in the hope it can be useful for others too. If you are a developer yourself, feel free to have a look at some of these platforms to see if there is something of value to you:
 
 [![npm](https://img.shields.io/badge/npm_packages-313131?style=for-the-badge&labelColor=313131&logo=npm&logoColor=white&color=313131)](https://www.npmjs.com/~mhanki)
 [![bit](https://img.shields.io/badge/ui_components-313131?style=for-the-badge&labelColor=313131&logo=Bit&logoColor=white&color=313131)](https://bit.dev/mhanki)

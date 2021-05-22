@@ -21,7 +21,7 @@ Specialising in a main technology stack is part of what allows me to achieve and
 
 <br>
 
-## Projects
+# Projects
 
 Here are some of the projects I've recently been working on.
 
@@ -33,7 +33,9 @@ Here are some of the projects I've recently been working on.
       <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td width="200" align="center">
-      <img src="https://via.placeholder.com/150" alt="Banner">
+      <a href="https://github.com/mhanki/">
+        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/pom.png">
+      </a>
     </td>
   </tr>
     <tr>
@@ -43,7 +45,9 @@ Here are some of the projects I've recently been working on.
       <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Banner">
+      <a href="https://github.com/mhanki/">
+        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/medi.png" alt="Banner">
+      </a>
     </td>
   </tr>
     <tr>
@@ -53,7 +57,9 @@ Here are some of the projects I've recently been working on.
       <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Banner">
+      <a href="https://github.com/mhanki/">
+        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/sel.png" alt="Banner">
+      </a>
     </td>
   </tr>
 </table>

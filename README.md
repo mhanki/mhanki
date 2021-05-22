@@ -28,13 +28,13 @@ Here are some of the projects I've recently been working on.
 <table>
   <tr>
     <td width="800">
-      <h3>Pomodoro</h3>
+      <h3>Calm Focus</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
     <td width="200" align="center">
       <a href="https://github.com/mhanki/">
-        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/pom.png">
+        <img width="150" src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/concentrate.png">
       </a>
     </td>
   </tr>
@@ -46,7 +46,7 @@ Here are some of the projects I've recently been working on.
     </td>
     <td align="center">
       <a href="https://github.com/mhanki/">
-        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/medi.png" alt="Banner">
+        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/app.png" alt="Banner">
       </a>
     </td>
   </tr>
@@ -58,7 +58,7 @@ Here are some of the projects I've recently been working on.
     </td>
     <td align="center">
       <a href="https://github.com/mhanki/">
-        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/sel.png" alt="Banner">
+        <img src="https://raw.githubusercontent.com/Schlenges/soggy-waffles/master/selenite.png" alt="Banner">
       </a>
     </td>
   </tr>

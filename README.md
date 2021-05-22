@@ -32,7 +32,7 @@ Here are some of the projects I've recently been working on.
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       <a href="https://github.com/mhanki/"><img src="https://img.shields.io/badge/-313131?style=social&logo=github"/></a>
     </td>
-    <td align="center">
+    <td width="200" align="center">
       <img src="https://via.placeholder.com/150" alt="Banner">
     </td>
   </tr>

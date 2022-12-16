@@ -21,5 +21,6 @@ Other projects you might want to check out:
 
 <h2><img src="https://media.giphy.com/media/gII6qKfZWHfhpvkj7Z/giphy.gif" height="80px" style="vertical-align: bottom;"/></h2>
 
+[![portfolio](https://img.shields.io/badge/-Portfolio-313131?style=flat&labelColor=313131&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAD1BMVEUAAABsdHn5%2BfmywM3X1MdfxFROAAAAAXRSTlMAQObYZgAAAENJREFUeNqdjwUSwCAQxJqF%2F3%2B5lik6WjzB7g4LODdMYMHShFiaQJxE%2BSmYhV838WBqVRHEp4Nx8WFokb%2F4clN7fuIFlSQBNTD7iS8AAAAASUVORK5CYII%3D)](https://mhanki.github.io)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-313131?style=flat&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/meike-h/)
 [![mail](https://img.shields.io/badge/-E--Mail-313131?style=flat&labelColor=313131&logo=ProtonMail&logoColor=white&color=313131)](mailto:meike.hankewicz@protonmail.com)

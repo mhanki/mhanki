@@ -9,14 +9,14 @@ My name is Meike, and I am a web developer from Germany. I love creating web app
   
 Some of the projects I am currently working on:
 
-- [Selenite](https://github.com/Selenite-Player/Selenite) - A clean and minimalistic desktop player for Spotify 
-- [Treasure Trove]() - Store your inspirational quotes, links, articles, videos or images in one place
-- [Issue Tracker]()
+- [Selenite](https://github.com/Selenite-Player/Selenite) - A small and clean desktop player for Spotify 
+- [Treasure Trove](https://github.com/mhanki/Treasure-Trove) - Store inspirational quotes or links to articles/videos/images in one place
+- [Issue Tracker](https://github.com/mhanki/Issue-Tracker) - Track and manage tasks and issues of your projects
 
 Other projects you might want to check out:
 
 - [Zen Focus](https://github.com/Zen-Focus/Zen-Focus-Web) - A minimalistic pomodoro timer with breathing meditation support and soundscapes
-- [Clean React](https://github.com/mhanki/Clean-React) - A CLI tool to clean out boilerplate code created by create-react-app 
+- [Clean React](https://github.com/mhanki/Clean-React) - CLI tool to clean out boilerplate code created by Create React App 
 - [Evermore](https://github.com/mhanki/Evermore-Desktop-HUD) - Keep your loved ones close with this desktop HUD, even if they are in a different time zone
 
 

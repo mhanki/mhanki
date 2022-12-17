@@ -15,8 +15,9 @@ Some of the projects I am currently working on:
 
 Other projects you might want to check out:
 
-- [Clean React]() - A CLI tool to clean out boilerplate code created by create-react-app 
-- [Evermore]() - Keep your loved ones close with this desktop HUD, even if they are in a different time zone.
+- [Zen Focus](https://github.com/Zen-Focus/Zen-Focus-Web) - A minimalistic pomodoro timer with breathing meditation support and soundscapes
+- [Clean React](https://github.com/mhanki/Clean-React) - A CLI tool to clean out boilerplate code created by create-react-app 
+- [Evermore](https://github.com/mhanki/Evermore-Desktop-HUD) - Keep your loved ones close with this desktop HUD, even if they are in a different time zone
 
 
 <h2><img src="https://media.giphy.com/media/gII6qKfZWHfhpvkj7Z/giphy.gif" height="80px" style="vertical-align: bottom;"/></h2>

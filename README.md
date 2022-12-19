@@ -5,7 +5,7 @@
 My name is Meike, and I am a web developer from Germany. I love creating web apps and desktop applications using the JavaScript ecosystem. Scrolling through the repositories, you might also find the odd little tool to make (development) life easier ([or a bit more fun](https://github.com/mhanki/Nom) 🐢). 
 
 
-<h2>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/mhanki/mhanki/main/assets/laptop.png" height="50px" style="vertical-align: middle;"/> &nbsp; Projects</h2>
+<h2>&nbsp;&nbsp;<img src="https://media.giphy.com/media/86NOwNZTUfTDDwbaXv/giphy.gif" height="60px" style="vertical-align: middle;"/> &nbsp; Projects</h2>
   
 Some of the projects I am currently working on:
 

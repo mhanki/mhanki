@@ -17,8 +17,6 @@ Other projects you might want to check out:
 
 - [Zen Focus](https://github.com/Zen-Focus/Zen-Focus-Web) - A minimalistic pomodoro timer with breathing meditation support and soundscapes
 - [Clean React](https://github.com/mhanki/Clean-React) - CLI tool to clean out boilerplate code created by Create React App 
-- [Evermore](https://github.com/mhanki/Evermore-Desktop-HUD) - Keep your loved ones close with this desktop HUD, even if they are in a different time zone
-
 
 <h2><img src="https://media.giphy.com/media/gII6qKfZWHfhpvkj7Z/giphy.gif" height="80px" style="vertical-align: bottom;"/></h2>
 

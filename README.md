@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/5UEFxaTHdu9cBJLt7w/giphy.gif" height="150px" align="right"  />
-
 # Hello there!
 
 My name is Meike, and I am a web developer from Germany. I love creating web apps and desktop applications using the JavaScript ecosystem. Scrolling through the repositories, you might also find the odd little tool to make (development) life easier ([or a bit more fun](https://github.com/mhanki/Nom) 🐢). 

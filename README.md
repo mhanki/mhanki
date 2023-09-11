@@ -1,8 +1,8 @@
 # Hello there!
 
-My name is Meike, I'm a web and software developer who loves to create helpful and practical tools and applications through the craft of code.
+My name is Meike, I'm a (web) developer who loves to create helpful and practical tools through the craft of code.
 
-I've specialized in the JavaScript/TypeScript ecosystem, so scrolling through the repositories you will find anything from Node.js based APIs to desktop apps with Electron, as well as React [SPAs](https://github.com/Zen-Focus/Zen-Focus-Web) and [mobile apps](https://github.com/mhanki/Pick-Me-Up) created with React Native. You might also come across the odd little tool to make development life [easier](https://github.com/mhanki/Clean-React) or a bit [more fun](https://github.com/mhanki/Nom) 🐢. 
+I've specialized in the JavaScript/TypeScript ecosystem, so scrolling through the repositories you will find anything from Node.js based [APIs](https://github.com/mhanki/Mood-Minder-API) to [desktop apps](https://github.com/Selenite-Player/Selenite) with Electron, as well as React [SPAs](https://github.com/Zen-Focus/Zen-Focus-Web) and [mobile apps](https://github.com/mhanki/Mood-Minder) created with React Native. You might also come across the odd little tool to make development life [easier](https://github.com/mhanki/Clean-React) or a bit more [fun](https://github.com/mhanki/Nom) 🐢. 
 
 <h2></h2>
 
